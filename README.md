@@ -1,6 +1,7 @@
 # Fndesk 飞牛主题库接入规范
 
-本文档说明如何制作一个符合规范的 `theme.json` 文件，在 Fndesk 主题库使用。
+本文档说明如何制作一个符合规范的 `theme.json` 文件，在 Fndesk 主题库一键切换使用。
+（目前涵盖飞牛：登录背景、登录LOGO、桌面背景、设备LOGO、Favicon等）
 
 ---
 <img width="730" height="408" alt="image" src="https://github.com/user-attachments/assets/6c6735f7-255f-4f1e-853e-0c12a797a9cc" />
