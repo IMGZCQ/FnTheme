@@ -3,6 +3,11 @@
 本文档说明如何制作一个符合规范的 `theme.json` 文件，供 Fndesk 飞牛桌面管理工具使用。
 
 ---
+<img width="730" height="408" alt="image" src="https://github.com/user-attachments/assets/6c6735f7-255f-4f1e-853e-0c12a797a9cc" />
+<img width="670" height="537" alt="image" src="https://github.com/user-attachments/assets/7a7c8474-5316-4a77-b433-d21f015061ef" />
+<img width="664" height="389" alt="image" src="https://github.com/user-attachments/assets/b28f5352-81dc-48f9-acf7-c7376dff7100" />
+
+---
 
 ## 一、`theme.json` 文件结构
 
@@ -87,6 +92,8 @@
 | 🔧 自定义项 | 目前 `t1` ~ `t5` 是固定字段，未来可能扩展更多 |
 | 🌱 共创主题生态 | 欢迎大家参与制作，让飞牛更有趣！ |
 
+---
+<img width="1029" height="794" alt="image" src="https://github.com/user-attachments/assets/e0f19d6e-3650-407f-9a9b-19c46b525949" />
 ---
 
 > 最后更新：2026-08-06
