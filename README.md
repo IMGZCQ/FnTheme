@@ -28,7 +28,7 @@
       "t0": "http://123.com/萤石/thumbnail.webp",
       "t1": "http://123.com/萤石/loginLogo.png",
       "t2": "http://123.com/萤石/loginBg.mp4",
-      "t3": "http://123.com/萤石/deviceLogo.svg",
+      "t3": "http://123.com/萤石/deviceLogo.png",
       "t4": "http://123.com/萤石/wallpaper.mp4",
       "t5": "http://123.com/萤石/favicon.png"
     },
@@ -38,7 +38,7 @@
       "t0": "http://123.com/开心肥牛/thumbnail.webp",
       "t1": "http://123.com/开心肥牛/loginLogo.png",
       "t2": "http://123.com/开心肥牛/loginBg.mp4",
-      "t3": "http://123.com/开心肥牛/deviceLogo.svg",
+      "t3": "http://123.com/开心肥牛/deviceLogo.png",
       "t4": "http://123.com/开心肥牛/wallpaper.mp4",
       "t5": "http://123.com/开心肥牛/favicon.png"
     }
@@ -52,11 +52,11 @@
 |------|------|:----:|------|
 | `ID` | 数字 | ✅ | 主题唯一标识 |
 | `标题` | 字符串 | ✅ | 主题名称，显示在卡片按钮上 |
-| `t0` | URL | ⭕ | 缩略图（长边 240px 图片 / 动图） |
-| `t1` | URL | ✅ | 登录 Logo （建议小于300*130） |
-| `t2` | URL | ✅ | 登录背景图（支持 MP4 视频） |
-| `t3` | URL | ✅ | 设备 Logo （建议128*128） |
-| `t4` | URL | ✅ | 桌面壁纸（支持 MP4 视频） |
+| `t0` | URL | ⭕ | 缩略图（支持常见图片格式，长边 240px） |
+| `t1` | URL | ✅ | 登录 Logo（支持常见图片格式，建议小于300*130） |
+| `t2` | URL | ✅ | 登录背景图（支持常见图片格式或 MP4 视频） |
+| `t3` | URL | ✅ | 设备 Logo（支持常见图片格式，建议128*128） |
+| `t4` | URL | ✅ | 桌面壁纸（支持常见图片格式或 MP4 视频） |
 | `t5` | URL | ⭕ | 网页 Favicon （建议128*128） |
 
 ### `_meta` 字段（可选）
@@ -97,4 +97,4 @@
 <img width="1029" height="794" alt="image" src="https://github.com/user-attachments/assets/e0f19d6e-3650-407f-9a9b-19c46b525949" />
 ---
 
-> 最后更新：2026-08-06
+> 最后更新：2026-08-11
